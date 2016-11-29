@@ -2,17 +2,6 @@
 
 E-commerce Application built with the MEAN stack
 
-This e-commerce platform is built step-by-step on my book "Building an e-Commerce Application with MEAN" available on:
-
-  - [Amazon](http://www.amazon.com/Building-e-Commerce-Application-Adrian-Mejia/dp/1785286552/)
-  - [Packt Publishing](https://www.packtpub.com/web-development/building-e-commerce-application-mean)
-  - [Safari Online](https://www.safaribooksonline.com/library/view/building-an-e-commerce/9781785286551/)
-  - [O'Reilly Books](http://shop.oreilly.com/product/9781785286551.do)
-
-![Building an e-Commerce Application with MEAN](https://raw.githubusercontent.com/amejiarosario/meanshop/master/e2e/fixtures/meanshop-book.png "Building an e-Commerce Application with MEAN")
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [Installation](#installation)
